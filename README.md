@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mandela 👋
 
-<!--
-**eilleen-cmnk/eilleen-cmnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI evaluation and research analyst based in Nairobi, Kenya. I review AI-generated outputs, verify claims through online research, and build automation workflows.
 
-Here are some ideas to get you started:
+## What I work on
+- AI/VLM output evaluation and data annotation
+- n8n automation workflows (including phishing-triage)
+- Web development (HTML/CSS/JS)
+- Cybersecurity fundamentals (TryHackMe, Kali Linux, Nmap, Wireshark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Anthropic: Claude 101 and AI Fluency
+- CSN: Modern Cybersecurity with AI
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mandela-eilleen-2455bb374/)
